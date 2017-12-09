@@ -1,0 +1,15 @@
+C:\Users\Assid\onedrive\documents\visual studio 2015\Projects\histogramme\DALL\bin\Debug\DALL.dll
+C:\Users\Assid\onedrive\documents\visual studio 2015\Projects\histogramme\DALL\bin\Debug\DALL.pdb
+C:\Users\Assid\onedrive\documents\visual studio 2015\Projects\histogramme\DALL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Assid\onedrive\documents\visual studio 2015\Projects\histogramme\DALL\obj\Debug\DALL.dll
+C:\Users\Assid\onedrive\documents\visual studio 2015\Projects\histogramme\DALL\obj\Debug\DALL.pdb
+C:\Users\Assid\Desktop\Histogramme c# devexpress\histogramme\DALL\bin\Debug\DALL.dll
+C:\Users\Assid\Desktop\Histogramme c# devexpress\histogramme\DALL\bin\Debug\DALL.pdb
+C:\Users\Assid\Desktop\Histogramme c# devexpress\histogramme\DALL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Assid\Desktop\Histogramme c# devexpress\histogramme\DALL\obj\Debug\DALL.dll
+C:\Users\Assid\Desktop\Histogramme c# devexpress\histogramme\DALL\obj\Debug\DALL.pdb
+C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\bin\Debug\DALL.dll
+C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\bin\Debug\DALL.pdb
+C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.dll
+C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.pdb
