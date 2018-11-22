@@ -12,9 +12,9 @@ namespace DALL
     {
         public static SqlCeConnection GetConnection()
         {
-            return new SqlCeConnection(@"Data Source=C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\DAL\DataBase.sdf");
-        }
-    }
+			return new SqlCeConnection(@"Data Source=C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DataBase.sdf");
+		}
+	}
 
 
 }

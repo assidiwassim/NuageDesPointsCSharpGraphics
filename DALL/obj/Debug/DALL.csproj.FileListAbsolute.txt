@@ -13,3 +13,9 @@ C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSha
 C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\bin\Debug\System.Data.SqlServerCe.dll
 C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.dll
 C:\Users\Assid\OneDrive\Documents\Visual Studio 2015\Projects\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.pdb
+C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DALL\bin\Debug\DALL.dll
+C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DALL\bin\Debug\DALL.pdb
+C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DALL\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.csprojResolveAssemblyReference.cache
+C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.dll
+C:\Users\wassim\Documents\GitHub\NuageDesPointsCSharpGraphics\DALL\obj\Debug\DALL.pdb
